@@ -4,7 +4,7 @@
 
 The Community Care Hub is a free, open-source system that helps community networks welcome members, coordinate a cause, connect people to trusted resources, and show their impact. AI helpers handle the busywork. People make every decision.
 
-- Website: open `index.html`, or visit the published GitHub Pages site.
+- Website: https://nurse-ai-os.org/community-care-hub/
 - Request a free setup: https://form.jotform.com/263173142192048
 
 ## What's here
