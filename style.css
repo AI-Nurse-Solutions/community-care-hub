@@ -183,3 +183,4 @@ table.msgs td:last-child{width:24%;color:var(--muted);font-size:.88rem}
 table.matrix{font-size:.88rem;min-width:760px}
 table.matrix td:first-child{white-space:nowrap}
 @media print{.level,.layer{break-inside:avoid}table.matrix{min-width:0;font-size:8pt}}
+code{background:var(--teal-soft);padding:1px 5px;border-radius:4px;font-size:.92em;word-break:break-word}
