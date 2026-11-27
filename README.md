@@ -15,6 +15,9 @@ The Community Care Hub is a free, open-source system that helps community networ
 | `about.html` | About Robert Domondon, NIN, and the planned NAIO Institute |
 | `style.css` | Shared styles |
 | `soul-interview-prompt.md` | The prompt that shapes a hub around a community's mission |
+| `domondon-package.html` | The Dr. Engie Domondon Community Hub Package: what it is and how to install it |
+| `downloads/` | The package as a zip file |
+| `packages/dr-engie-domondon-community-hub/` | The same package unzipped, so anyone can read every file |
 | `LICENSE` | MIT License |
 
 ## License
